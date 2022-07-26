@@ -1,4 +1,4 @@
-### Hi there 👋 Let's Enjoy ___
+### Hi there 👋 Let's enjoy ___
 
 <!--
 **joypal23jkp/joypal23jkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
